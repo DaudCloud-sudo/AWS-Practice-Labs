@@ -22,11 +22,11 @@ The goal of this repository is to consolidate all AWS-related projects and labs.
 ## AWS Service Repositories
 
 ### Compute Services
-- [EC2 Labs and Projects](https://github.com/DaudCloud-sudo/AWS-EC2-Lab/tree/main)
-- [ECS Labs and Projects](https://github.com/your-username/aws-ecs-lab)
-- [EKS Labs and Projects](https://github.com/your-username/aws-eks-lab)
-- [Lambda Labs and Projects](https://github.com/your-username/aws-lambda-lab)
-- [Fargate Labs and Projects](https://github.com/your-username/aws-fargate-lab)
+- [EC2 Lab](https://github.com/DaudCloud-sudo/AWS-EC2-Lab/tree/main)
+- [ECS Lab](https://github.com/your-username/aws-ecs-lab)
+- [EKS Lab](https://github.com/your-username/aws-eks-lab)
+- [Lambda Lab](https://github.com/your-username/aws-lambda-lab)
+- [Fargate Lab](https://github.com/your-username/aws-fargate-lab)
 
 ### Storage Services
 - [S3 Labs and Projects](https://github.com/your-username/aws-s3-lab)
