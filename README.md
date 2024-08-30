@@ -29,29 +29,29 @@ The goal of this repository is to consolidate all AWS-related projects and labs.
 - [Fargate Lab](https://github.com/your-username/aws-fargate-lab)
 
 ### Storage Services
-- [S3 Labs and Projects](https://github.com/your-username/aws-s3-lab)
-- [EBS Labs and Projects](https://github.com/your-username/aws-ebs-lab)
-- [EFS Labs and Projects](https://github.com/your-username/aws-efs-lab)
+- [S3 Labs](https://github.com/DaudCloud-sudo/AWS-Storage-Labs)
+- [EBS Labs](https://github.com/your-username/aws-ebs-lab)
+- [EFS Labs](https://github.com/your-username/aws-efs-lab)
 
 ### Database Services
-- [RDS Labs and Projects](https://github.com/your-username/aws-rds-lab)
-- [DynamoDB Labs and Projects](https://github.com/your-username/aws-dynamodb-lab)
-- [Aurora Labs and Projects](https://github.com/your-username/aws-aurora-lab)
+- [RDS Labs](https://github.com/your-username/aws-rds-lab)
+- [DynamoDB Labs](https://github.com/your-username/aws-dynamodb-lab)
+- [Aurora Labs](https://github.com/your-username/aws-aurora-lab)
 
 ### Analytics Services
-- [Redshift Labs and Projects](https://github.com/your-username/aws-redshift-lab)
-- [Glue Labs and Projects](https://github.com/your-username/aws-glue-lab)
-- [Kinesis Labs and Projects](https://github.com/your-username/aws-kinesis-lab)
+- [Redshift Labs](https://github.com/your-username/aws-redshift-lab)
+- [Glue Labs](https://github.com/your-username/aws-glue-lab)
+- [Kinesis Labs](https://github.com/your-username/aws-kinesis-lab)
 
 ### Networking and Content Delivery
-- [VPC Labs and Projects](https://github.com/your-username/aws-vpc-lab)
-- [Route 53 Labs and Projects](https://github.com/your-username/aws-route53-lab)
-- [CloudFront Labs and Projects](https://github.com/your-username/aws-cloudfront-lab)
+- [VPC Labs](https://github.com/DaudCloud-sudo/AWS-Networking-and-Content-Delivery-Labs)
+- [Route 53 Labs](https://github.com/your-username/aws-route53-lab)
+- [CloudFront Labs](https://github.com/your-username/aws-cloudfront-lab)
 
 ### Security, Identity, and Compliance
-- [IAM Labs and Projects](https://github.com/your-username/aws-iam-lab)
-- [Shield Labs and Projects](https://github.com/your-username/aws-shield-lab)
-- [WAF Labs and Projects](https://github.com/your-username/aws-waf-lab)
+- [IAM Labs](https://github.com/your-username/aws-iam-lab)
+- [Shield Labs](https://github.com/your-username/aws-shield-lab)
+- [WAF Labs](https://github.com/your-username/aws-waf-lab)
 
 ## Contributing
 
