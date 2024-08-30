@@ -35,7 +35,7 @@ The goal of this repository is to consolidate all AWS-related projects and labs.
 
 ### Database Services
 - [RDS Labs](https://github.com/your-username/aws-rds-lab)
-- [DynamoDB Labs](https://github.com/your-username/aws-dynamodb-lab)
+- [DynamoDB Labs](https://github.com/DaudCloud-sudo/AWS-Database-Labs/tree/main)
 - [Aurora Labs](https://github.com/your-username/aws-aurora-lab)
 
 ### Analytics Services
