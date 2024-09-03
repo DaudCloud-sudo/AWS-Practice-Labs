@@ -1,6 +1,6 @@
 # AWS Practice Lab
 
-Welcome to the AWS Practice Lab repository! This repository serves as a central hub for my AWS learning journey, containing links to specific service-focused repositories where I document hands-on labs, exercises, and projects. 
+Welcome to the AWS Practice Lab repository! This repository serves as a central hub for my AWS learning journey, containing links to specific service-focused repositories where I document hands-on labs, POC, and projects. 
 
 ## Table of Contents
 
@@ -23,9 +23,9 @@ The goal of this repository is to consolidate all AWS-related projects and labs.
 
 ### Compute Services
 - [EC2 Lab](https://github.com/DaudCloud-sudo/AWS-EC2-Lab/tree/main)
+- [Serverless Lambda POC](https://github.com/DaudCloud-sudo/AWS-Serverless-POC)
 - [ECS Lab](https://github.com/your-username/aws-ecs-lab)
 - [EKS Lab](https://github.com/your-username/aws-eks-lab)
-- [Lambda Lab](https://github.com/your-username/aws-lambda-lab)
 - [Fargate Lab](https://github.com/your-username/aws-fargate-lab)
 
 ### Storage Services
